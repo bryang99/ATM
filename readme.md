@@ -5,7 +5,8 @@ Bryan Gonzalez
 
 https://github.com/bryang99/ATM
 
-the link to your screencast video on cloud (vimeo, youtube, etc.).
+https://youtu.be/790HnBx8FfI
+
 
 VS Code, QuickTime Player (to record video), Youtube (to upload)
 

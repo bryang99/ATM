@@ -2,7 +2,8 @@
 Bryan Gonzalez
 
 ** Links:
-A link to your GitHub repo.
+
+https://github.com/bryang99/ATM
 
 the link to your screencast video on cloud (vimeo, youtube, etc.).
 
